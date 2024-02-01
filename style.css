@@ -387,7 +387,7 @@ width: 100%;
 {
     color: #fff;
     font-size: 2.2rem;
-    padding: 3rem 0 ;
+    padding: 1rem 0 ;
 }
 .review .box-container .box .stars i
 {
@@ -405,7 +405,7 @@ width: 100%;
 {
     content: '';
     position: absolute;
-    top: -3rem; left: 50%;
+    top: -1rem; left: 50%;
     transform: translateX(-50%);
     background: var(--green);
     border-bottom-left-radius: 50%;
